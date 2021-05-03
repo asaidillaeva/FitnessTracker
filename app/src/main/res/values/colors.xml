@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#323B46</color>
+    <color name="primary_dark">#252D37</color>
+    <color name="primary_light">#424B56</color>
+    <color name="accent">#AE33C4</color>
+    <color name="purple">#7f34a9</color>
+    <color name="pink">#bc2b6a</color>
+    <color name="primary_text">#fff</color>
+    <color name="secondary_text">#dbdbdb</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="backgroundMain">#252D37</color>
+
+
+
+</resources>

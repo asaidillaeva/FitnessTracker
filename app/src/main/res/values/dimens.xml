@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin">8dp</dimen>
+    <dimen name="keyTextSize">16sp</dimen>
+    <dimen name="labelTextSize">20sp</dimen>
+    <dimen name="view_margin">16dp</dimen>
+</resources>
